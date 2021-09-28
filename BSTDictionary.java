@@ -1,7 +1,7 @@
 package com.java.learnings;
 
 public class BSTDictionary {
-
+    //Tree Node
     class Node{
         String word,meaning;
         Node left,right;
